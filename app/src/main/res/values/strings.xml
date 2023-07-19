@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose Demo</string>
+    <string name="show_less">Collapse</string>
+    <string name="show_more">Expand</string>
+</resources>
